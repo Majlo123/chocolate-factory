@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "name": "Bonnat Chocolates",
+    "location": {
+      "id": 1,
+      "street": "Rue du Faubourg Saint-Honoré 75008",
+      "city": "Paris",
+      "state": "France",
+      "latitude": 48.870848,
+      "longitude": 2.311140
+    },
+    "logo": "factory1.jpg",
+    "averageRating": 8.8,
+    "workingHours": "10:00-16:00",
+    "workStatus": "Closed",
+    "chocolates": [
+      {
+        "id": 3,
+        "name": "Chocolat Bonnat",
+        "price": 580,
+        "chocolateKind": "White",
+        "chocolateType": "Bar",
+        "weight": 290,
+        "description": "Creamy and smooth",
+        "image": "chocolate3.jpg",
+        "status": "In stock",
+        "quantity": 40
+      },
+      {
+        "id": 4,
+        "name": "Bonnat Praline Noisette",
+        "price": 790,
+        "chocolateKind": "Dark",
+        "chocolateType": "Pralines",
+        "weight": 300,
+        "description": "55% cocoa",
+        "image": "chocolate4.png",
+        "status": "In stock",
+        "quantity": 20
+      }
+    ],
+    "comments": "Excellent quality and taste."
+  },
+  {
+    "id": 2,
+    "name": "Milka Läderle",
+    "location": {
+      "id": 2,
+      "street": "Fohrenburgstrasse 1",
+      "city": "Bludenz",
+      "state": "Austria",
+      "latitude": 47.154202,
+      "longitude": 9.819385
+    },
+    "logo": "factory2.png",
+    "averageRating": 7.9,
+    "workingHours": "10:00-17:00",
+    "workStatus": "Closed",
+    "chocolates": [
+      {
+        "id": 1,
+        "name": "Milka",
+        "price": 400,
+        "chocolateKind": "Dark",
+        "chocolateType": "Bar",
+        "weight": 270,
+        "description": "Choco-swing biscuit",
+        "image": "chocolate1.jpeg",
+        "status": "In stock",
+        "quantity": 50
+      },
+      {
+        "id": 5,
+        "name": "Milka Oreo",
+        "price": 420,
+        "chocolateKind": "Milk",
+        "chocolateType": "Bar",
+        "weight": 100,
+        "description": "Alpine Milk Chocolate",
+        "image": "chocolate5.jpg",
+        "status": "Out of stock",
+        "quantity": 0
+      },
+      {
+        "id": 6,
+        "name": "Milka Milk",
+        "price": 200,
+        "chocolateKind": "Dark",
+        "chocolateType": "Bar",
+        "weight": 90,
+        "description": "Bubbly Chocolate Bar",
+        "image": "chocolate6.jpg",
+        "status": "In stock",
+        "quantity": 60
+      }
+    ],
+    "comments": "Popular and widely loved."
+  },
+  {
+    "id": 3,
+    "name": "Ferrero",
+    "location": {
+      "id": 3,
+      "street": "Piazza del Duomo 20121",
+      "city": "Milan",
+      "state": "Italy",
+      "latitude": 45.464211,
+      "longitude": 9.191383
+    },
+    "logo": "factory3.png",
+    "averageRating": 9.2,
+    "workingHours": "09:00-18:00",
+    "workStatus": "Working",
+    "chocolates": [
+      {
+        "id": 2,
+        "name": "Kinder",
+        "price": 350,
+        "chocolateKind": "Milk",
+        "chocolateType": "Bar",
+        "weight": 270,
+        "description": "With a creamy milky filling",
+        "image": "chocolate2.png",
+        "status": "In stock",
+        "quantity": 30
+      },
+      {
+        "id": 7,
+        "name": "Lindt Excellence",
+        "price": 600,
+        "chocolateKind": "Dark",
+        "chocolateType": "Bar",
+        "weight": 100,
+        "description": "85% cocoa",
+        "image": "chocolate7.jpg",
+        "status": "In stock",
+        "quantity": 25
+      }
+    ],
+    "comments": "High quality and popular."
+  },
+  {
+    "id": 4,
+    "name": "Godiva",
+    "location": {
+      "id": 4,
+      "street": "Heilbronner Str. 70 70191",
+      "city": "Stuttgart",
+      "state": "Germany",
+      "latitude": 48.791682,
+      "longitude": 9.182767
+    },
+    "logo": "factory4.jpg",
+    "averageRating": 9.5,
+    "workingHours": "08:00-20:00",
+    "workStatus": "Working",
+    "chocolates": [
+      {
+        "id": 8,
+        "name": "Godiva Gold Collection",
+        "price": 1200,
+        "chocolateKind": "Milk",
+        "chocolateType": "Assorted",
+        "weight": 250,
+        "description": "Assorted luxury chocolates",
+        "image": "chocolate8.jpg",
+        "status": "In stock",
+        "quantity": 15
+      }
+    ],
+    "comments": "Luxury and exquisite taste."
+  },
+  {
+    "id": 5,
+    "name": "Nestlé",
+    "location": {
+      "id": 5,
+      "street": "Rue de Rivoli 75001",
+      "city": "Paris",
+      "state": "France",
+      "latitude": 48.856929,
+      "longitude": 2.352423
+    },
+    "logo": "factory5.jpg",
+    "averageRating": 8.0,
+    "workingHours": "07:00-19:00",
+    "workStatus": "Working",
+    "chocolates": [
+      {
+        "id": 9,
+        "name": "Toblerone",
+        "price": 450,
+        "chocolateKind": "Milk",
+        "chocolateType": "Bar",
+        "weight": 100,
+        "description": "Swiss milk chocolate with honey and almond nougat",
+        "image": "chocolate9.jpg",
+        "status": "Out of stock",
+        "quantity": 0
+      }
+    ],
+    "comments": "Internationally loved brand."
+  }
+]

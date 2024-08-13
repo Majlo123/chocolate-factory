@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "street": "Rue du Faubourg Saint-Honoré 75008",
+    "city": "Paris",
+    "state": "France",
+    "latitude": 48.870848,
+    "longitude": 2.311140
+  },
+  {
+    "id": 2,
+    "street": "Fohrenburgstrasse 1",
+    "city": "Bludenz",
+    "state": "Austria",
+    "latitude": 47.154202,
+    "longitude": 9.819385
+  },
+  {
+    "id": 3,
+    "street": "Piazza del Duomo 20121",
+    "city": "Milan",
+    "state": "Italy",
+    "latitude": 45.464211,
+    "longitude": 9.191383
+  },
+  {
+    "id": 4,
+    "street": "Heilbronner Str. 70 70191",
+    "city": "Stuttgart",
+    "state": "Germany",
+    "latitude": 48.791682,
+    "longitude": 9.182767
+  },
+  {
+    "id": 5,
+    "street": "Rue de Rivoli 75001",
+    "city": "Paris",
+    "state": "France",
+    "latitude": 48.856929,
+    "longitude": 2.352423
+  }
+]
